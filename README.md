@@ -1,4 +1,4 @@
-# ST_bot_DLS_project
+# Style transfer bot project
 В данном проекте реализован телеграм бот по переносу стиля между изображениями.
 
 В качестве фреймворка для бота был использован **pyTelegramBotAPI**: https://github.com/eternnoir/pyTelegramBotAPI
