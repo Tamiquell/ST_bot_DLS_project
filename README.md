@@ -5,4 +5,4 @@
 
 В качестве фреймворка дял переноса стиля был использован PyTorch: https://pytorch.org/
 
-<img src="./images/result4.png">
+<img src="./images/result4.PNG">
