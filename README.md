@@ -11,6 +11,8 @@
 
 Ниже представлены примеры работы бота:
 
+<img src="./images/result1.PNG">
+
 <img src="./images/result4.PNG">
 
 <img src="./images/result5.PNG">
