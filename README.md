@@ -6,3 +6,12 @@
 В качестве фреймворка дял переноса стиля был использован PyTorch: https://pytorch.org/
 
 <img src="./images/result4.PNG">
+
+<img src="./images/result5.PNG">
+
+<img
+src=“images/result3.PNG”
+raw=true
+alt=“auffff”
+style=“margin-right: 10px;”
+/>
