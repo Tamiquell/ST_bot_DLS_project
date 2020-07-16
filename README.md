@@ -35,11 +35,11 @@
 
 ## Результаты работы бота
 
-<img src="./images/telepique1.PNG">
+<img src="./images/telepique1.jpg">
 
-<img src="./images/telepique2.PNG">
+<img src="./images/telepique2.jpg">
 
-<img src="./images/telepique3.PNG">
+<img src="./images/telepique3.jpg">
 
 ## Планы
 
